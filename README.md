@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/GuK52stHNlYNPblrwLwMfmjsOqxCDvGL3UbTJ27BDXU/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5w/b09ScWJ6cnhvdUc0/S3I5SFpIYlZRSGFF/byZwaWQ9QXBp)](https://github.com/kuhmasii)
+[![MasterHead](https://images.unsplash.com/photo-1592424002053-21f369ad7fdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80)](https://github.com/kuhmasii)
 
 <h1 align="center">Hi 👋, I'm Isaiah Olaoye</h1>
 <h3 align="center">A tech lover and a passionate backend developer from Nigeria.</h3>
