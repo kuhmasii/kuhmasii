@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **olaisaiah54@gmail.com**
 
-- 📄 Know about my experiences [kedin.com/in/isaiah-olaoye/](kedin.com/in/isaiah-olaoye/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
 
 - ⚡ Fun fact **I love pets, and a movie/game freak.**
 
