@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Django, DRF, Python.**
 
-- 📫 How to reach me **olaisaiah54@gmail.com**
+- 📫 How to reach me **isaiaholaoye91@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
 
