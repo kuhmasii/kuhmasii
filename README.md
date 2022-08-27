@@ -4,7 +4,7 @@
 <h3 align="center">A tech lover and a passionate backend developer from Nigeria.</h3>
 <img align='right' alt='programmer' width='400' src='https://imgs.search.brave.com/yVQR56bl2JL1wf9V9HsGZ5o17fI3XdTsgqIQW90w_cE/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/ejdxMlBiU1N4blJn/MV9SMGpYeXF3SGFF/eSZwaWQ9QXBp'>
 
-- 🔭 I’m currently working on [Flipify / Skill4Cash](https://github.com/kuhmasii/flipify-backend)
+- 🔭 I’m currently working on [Flipify](https://github.com/kuhmasii/flipify-backend)
 
 - 🌱 I’m currently learning **Using Python to interact with OS (Google)**
 
@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kuhmasii](https://github.com/kuhmasii)
 
-- 💬 Ask me about **Django, DRF, Python.**
+- 💬 Ask me about **Django, DRF, Python, Unittest.**
 
-- 📫 How to reach me **isaiaholaoye91@gmail.com**
+- 📫 How to reach me **olaisaiah54@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
 
