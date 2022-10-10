@@ -1,24 +1,16 @@
-[![@kuhmasii's Holopin board](https://holopin.io/api/user/board?user=kuhmasii)](https://holopin.io/@kuhmasii)
-
-<h1 align="center">Hi 👋, I'm Isaiah Olaoye</h1>
-<h3 align="center">A tech lover and a passionate backend developer from Nigeria.</h3>
-<img align='right' alt='programmer' width='400' src='https://imgs.search.brave.com/yVQR56bl2JL1wf9V9HsGZ5o17fI3XdTsgqIQW90w_cE/rs:fit:734:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5X/ejdxMlBiU1N4blJn/MV9SMGpYeXF3SGFF/eSZwaWQ9QXBp'>
-
+<h1 align="center">Kuhmasii,</h1>
+<h3 align="center">A tech lover open sourcer and a passionate BE Dev.</h3>
 - 🔭 I’m currently working on [Flipify](https://github.com/kuhmasii/flipify-backend)
 
-- 🌱 I’m currently learning **Using Python to interact with OS (Google)**
+- 🌱 I’m currently learning **Software design patterns**
 
 - 👯 I’m looking to collaborate on **Django/API related Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kuhmasii](https://github.com/kuhmasii)
-
 - 💬 Ask me about **Django, DRF, Python, Unittest.**
-
-- 📫 How to reach me **olaisaiah54@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
 
-- ⚡ Fun fact **I love pets, and a movie/game freak.**
+- ⚡ Fun fact **I love Assassin's creed, requiescat in pace.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
