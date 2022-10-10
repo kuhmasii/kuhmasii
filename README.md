@@ -1,5 +1,6 @@
 <h1 align="center">Kuhmasii,</h1>
-<h3 align="center">A tech lover open sourcer and a passionate BE Dev.</h3>
+<h3 align="center">A tech lover, an open sourcer and a passionate BE Dev.</h3>
+
 - 🔭 I’m currently working on [Flipify](https://github.com/kuhmasii/flipify-backend)
 
 - 🌱 I’m currently learning **Software design patterns**
