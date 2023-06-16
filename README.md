@@ -1,5 +1,5 @@
-<h1 align="center">Kuhmasii,</h1>
-<h3 align="center">A tech lover, an open sourcer and a passionate BE Dev.</h3>
+<h1 align="center">it's me,</h1>
+<h3 align="center">An open sourcer and a passionate backend engineer and upcoming cybersecurity analyst.</h3>
 
 - 🌱 I’m currently learning **Software design patterns/CyberSecurity analysis**
 
