@@ -1,11 +1,11 @@
 <h1 align="center">Kuhmasii,</h1>
 <h3 align="center">A tech lover, an open sourcer and a passionate BE Dev.</h3>
 
-- 🌱 I’m currently learning **Software design patterns/ cybersecurity analysis**
+- 🌱 I’m currently learning **Software design patterns/CyberSecurity analysis**
 
-- 👯 I’m looking to collaborate on **Backend development related Projects**
+- 👯 I’m looking to collaborate on **Backend development related projects**
 
-- 💬 Ask me about **Django, DRF, Python, Unittest, system designs, cybersecurity, DSA**
+- 💬 Ask me about **Django, DRF, Python, Unittest, System Designs, CyberSecurity, DSA**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
 
