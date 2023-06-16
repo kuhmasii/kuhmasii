@@ -1,17 +1,15 @@
 <h1 align="center">Kuhmasii,</h1>
 <h3 align="center">A tech lover, an open sourcer and a passionate BE Dev.</h3>
 
-- 🔭 I’m currently working on [Flipify](https://github.com/kuhmasii/flipify-backend)
+- 🌱 I’m currently learning **Software design patterns/ cybersecurity analysis**
 
-- 🌱 I’m currently learning **Software design patterns**
+- 👯 I’m looking to collaborate on **Backend development related Projects**
 
-- 👯 I’m looking to collaborate on **Django/API related Projects**
-
-- 💬 Ask me about **Django, DRF, Python, Unittest.**
+- 💬 Ask me about **Django, DRF, Python, Unittest, system designs, cybersecurity, DSA**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
 
-- ⚡ Fun fact **I love Assassin's creed, requiescat in pace.**
+- ⚡ Fun fact **I can die for Assassin's creed, requiescat in pace.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
